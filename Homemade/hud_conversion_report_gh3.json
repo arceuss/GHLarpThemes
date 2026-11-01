@@ -1,0 +1,595 @@
+{
+  "schema_version": 2,
+  "style": "gh3",
+  "sources": [
+    "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak",
+    "C:\\gpttmp\\themez_fx4\\Homemade"
+  ],
+  "destination": "C:\\gpttmp\\themez_misc\\Homemade",
+  "report_path": "C:\\gpttmp\\themez_misc\\Homemade\\hud_conversion_report_gh3.json",
+  "name_source_commit": "7f5b1977093c646fad8b069009c719be86097fb5",
+  "source_archive_sha256": null,
+  "dry_run": false,
+  "expected_images": 44,
+  "font_policy": "No font page/metrics copied. Prepare matching style-local pairs separately.",
+  "runtime_policy": "Exporting images does not implement or activate a HUD renderer.",
+  "images": [
+    {
+      "name": "Char_Select_Hilite1",
+      "qbkey": "0x6e5168a0",
+      "target": "hud/gh3/Char_Select_Hilite1.png",
+      "dimensions": [
+        8,
+        8
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\Char_Select_Hilite1.png",
+      "sha256": "e0f89dc98bc3cd5e36fe43afbf3d9ce142f69be881931e0a9733700e0df30628",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\Char_Select_Hilite1.png",
+      "dimension_note": "Custom dimensions preserved; no resizing/cropping."
+    },
+    {
+      "name": "HUD_counter_body",
+      "qbkey": "0x38b63489",
+      "target": "hud/gh3/HUD_counter_body.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_counter_body.png",
+      "sha256": "84a04135d42ff18c4027f1fe5a86bb1abc68f1382e9e4f09ee78a5b0a844d819",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_counter_body.png"
+    },
+    {
+      "name": "HUD_counter_drum",
+      "qbkey": "0x4020ac1b",
+      "target": "hud/gh3/HUD_counter_drum.png",
+      "dimensions": [
+        256,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_counter_drum.png",
+      "sha256": "b2b37964d8006f33fb6a5b80c43c59f220d1fb2bd745d77209563c004008a34e",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_counter_drum.png"
+    },
+    {
+      "name": "HUD_counter_drum_icon",
+      "qbkey": "0x262aa716",
+      "target": "hud/gh3/HUD_counter_drum_icon.png",
+      "dimensions": [
+        64,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_counter_drum_icon.png",
+      "sha256": "e3fb87186d573b963ed79a89404490ff3b0d63f17a1833bebf3a959255c9ec8b",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_counter_drum_icon.png"
+    },
+    {
+      "name": "HUD_lightning_01",
+      "qbkey": "0xb0e43a20",
+      "target": "hud/gh3/HUD_lightning_01.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_lightning_01.png",
+      "sha256": "88a0ff78ae4129d81ab6aab3f1b3d954dce1b02a05ab3a0597a9cfc5d0a6cbb7",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_lightning_01.png"
+    },
+    {
+      "name": "HUD_lightning_03",
+      "qbkey": "0x5eea5b0c",
+      "target": "hud/gh3/HUD_lightning_03.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_lightning_03.png",
+      "sha256": "169b67ec9ef104863cda32811695b115344bf430b7cc3ed39f5c340102350253",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_lightning_03.png"
+    },
+    {
+      "name": "HUD_lightning_05",
+      "qbkey": "0xb789fe39",
+      "target": "hud/gh3/HUD_lightning_05.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_lightning_05.png",
+      "sha256": "e91cbddb91de9794d7826da6328372ecf518e94b60c80a292d1865b0c45fcece",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_lightning_05.png"
+    },
+    {
+      "name": "HUD_lightning_07",
+      "qbkey": "0x59879f15",
+      "target": "hud/gh3/HUD_lightning_07.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_lightning_07.png",
+      "sha256": "bc60ba4a15f807b7b715622907a1487284598f75a5bc79a9bdc2e3623e971166",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_lightning_07.png"
+    },
+    {
+      "name": "HUD_rock_BG_green",
+      "qbkey": "0x450cea2a",
+      "target": "hud/gh3/HUD_rock_BG_green.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_rock_BG_green.png",
+      "sha256": "ac5f01743ac147af27a2108e32062c89865a852dfc55b06dd15a86359f14c352",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_rock_BG_green.png"
+    },
+    {
+      "name": "HUD_rock_BG_red",
+      "qbkey": "0x08c26d99",
+      "target": "hud/gh3/HUD_rock_BG_red.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_rock_BG_red.png",
+      "sha256": "889d86dc090c5c55bbd6ed0d85519b976d05979f78ecbd567346aa7d93e5f5ab",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_rock_BG_red.png"
+    },
+    {
+      "name": "HUD_rock_BG_yellow",
+      "qbkey": "0x95414c9e",
+      "target": "hud/gh3/HUD_rock_BG_yellow.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_rock_BG_yellow.png",
+      "sha256": "ac5aed343bf7be00cac862bf371dd97f9d87ae36020bf7dc4a6c119072273eb6",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_rock_BG_yellow.png"
+    },
+    {
+      "name": "HUD_rock_body",
+      "qbkey": "0xffdc02c4",
+      "target": "hud/gh3/HUD_rock_body.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_rock_body.png",
+      "sha256": "d61eb44159189c87965ec6f7f1d9ce89900da85fc55db61e2775c08c19400f0f",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_rock_body.png"
+    },
+    {
+      "name": "HUD_rock_lights_all",
+      "qbkey": "0x79a0865d",
+      "target": "hud/gh3/HUD_rock_lights_all.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_rock_lights_all.png",
+      "sha256": "5f967655edcb11985217aad96fefc4657d6004c2b72e76ce702bd3a5e3fd1c48",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_rock_lights_all.png"
+    },
+    {
+      "name": "HUD_rock_lights_green",
+      "qbkey": "0x89194192",
+      "target": "hud/gh3/HUD_rock_lights_green.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_rock_lights_green.png",
+      "sha256": "830b6ccbfaca6ba9c09ea0eab2205be3948a3a03435c8a706210f24b536f47e8",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_rock_lights_green.png"
+    },
+    {
+      "name": "HUD_rock_lights_red",
+      "qbkey": "0xb8d9a80f",
+      "target": "hud/gh3/HUD_rock_lights_red.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_rock_lights_red.png",
+      "sha256": "614a98177ad11d03d07a649ef2b029dab96cb6273efeb883359529c17b2b9174",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_rock_lights_red.png"
+    },
+    {
+      "name": "HUD_rock_lights_yellow",
+      "qbkey": "0x5037628b",
+      "target": "hud/gh3/HUD_rock_lights_yellow.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_rock_lights_yellow.png",
+      "sha256": "7f54b8e10e07d01d7a5d08b5339d7c7d000b36afa4de2d326771f4b1e042d30e",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_rock_lights_yellow.png"
+    },
+    {
+      "name": "HUD_rock_needle",
+      "qbkey": "0x2438b25a",
+      "target": "hud/gh3/HUD_rock_needle.png",
+      "dimensions": [
+        16,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_rock_needle.png",
+      "sha256": "dec42eb8b2a49fdf964d3bc774447e954e01d7b0d7a8cf8f19e7497fed3dd5c3",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_rock_needle.png"
+    },
+    {
+      "name": "HUD_rock_tube",
+      "qbkey": "0xd944d7e8",
+      "target": "hud/gh3/HUD_rock_tube.png",
+      "dimensions": [
+        64,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_rock_tube.png",
+      "sha256": "01888a06fdb1ef623715880a9da52745404a37d9eb9ac96f6d6a277e11ea7026",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_rock_tube.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_fill",
+      "qbkey": "0x351b676f",
+      "target": "hud/gh3/HUD_rock_tube_glow_fill.png",
+      "dimensions": [
+        64,
+        16
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_rock_tube_glow_fill.png",
+      "sha256": "068b9393db1d83507fcacac3782b401f4defc9b7c92e0d3b5a0011440023e9a5",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_rock_tube_glow_fill.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_fill_b",
+      "qbkey": "0xaf2cf767",
+      "target": "hud/gh3/HUD_rock_tube_glow_fill_b.png",
+      "dimensions": [
+        64,
+        16
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_rock_tube_glow_fill_b.png",
+      "sha256": "4333e65883d5105ea12a6e126f13068e7e9a945dcee2cbb0a1ea567e38e1b1c2",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_rock_tube_glow_fill_b.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_full",
+      "qbkey": "0x20273d7b",
+      "target": "hud/gh3/HUD_rock_tube_glow_full.png",
+      "dimensions": [
+        64,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_rock_tube_glow_full.png",
+      "sha256": "62f415c553269a0bff1d2e58431874193b4a38028921d48d9bbb0e3b670702cd",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_rock_tube_glow_full.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_full_b",
+      "qbkey": "0x0a3c8de4",
+      "target": "hud/gh3/HUD_rock_tube_glow_full_b.png",
+      "dimensions": [
+        64,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_rock_tube_glow_full_b.png",
+      "sha256": "9d3921340ecade01ccb26a02ec6bfafafe4b3e3c65e19ba4947f28d9841fb88e",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_rock_tube_glow_full_b.png"
+    },
+    {
+      "name": "HUD_score_body",
+      "qbkey": "0xe4334497",
+      "target": "hud/gh3/HUD_score_body.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_body.png",
+      "sha256": "160675967b052a937c43878eadc092ba6af5cefacbbda15a11d36ab77caa4ec1",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_body.png"
+    },
+    {
+      "name": "HUD_score_flash",
+      "qbkey": "0x36f7ff86",
+      "target": "hud/gh3/HUD_score_flash.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_flash.png",
+      "sha256": "37db66c8356b6ee73f9f3e8f7bb92879a79768afb0ca4804ff4764e1ebf63d2f",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_flash.png"
+    },
+    {
+      "name": "HUD_score_light_0",
+      "qbkey": "0xb2f82657",
+      "target": "hud/gh3/HUD_score_light_0.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_light_0.png",
+      "sha256": "17ffba0c5e50100ac793e37d5a89553e0c5585f4e1cc8c3ece3c3789453972e5",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_light_0.png"
+    },
+    {
+      "name": "HUD_score_light_0_blue",
+      "qbkey": "0x677f40d9",
+      "target": "hud/gh3/HUD_score_light_0_blue.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_light_0_blue.png",
+      "sha256": "a2c73f3288534b2a7aa9d976af5ecbd77226bfe14758509b2fc82bc5ef530e70",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_light_0_blue.png"
+    },
+    {
+      "name": "HUD_score_light_0_green",
+      "qbkey": "0x316255c3",
+      "target": "hud/gh3/HUD_score_light_0_green.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_light_0_green.png",
+      "sha256": "c8e7dc5273deac0db84a62821b7b05d1b4bb47f7caf35a6ab20ab707da2e32a0",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_light_0_green.png"
+    },
+    {
+      "name": "HUD_score_light_0_purple",
+      "qbkey": "0x7662e684",
+      "target": "hud/gh3/HUD_score_light_0_purple.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_light_0_purple.png",
+      "sha256": "7709f8cdaf76187baceffe0b3a31b5581fe2e250e5fdc496e29804252c1bb92a",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_light_0_purple.png"
+    },
+    {
+      "name": "HUD_score_light_1",
+      "qbkey": "0xc5ff16c1",
+      "target": "hud/gh3/HUD_score_light_1.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_light_1.png",
+      "sha256": "732130c27def097d8c9113ac1eddb82cb62a86760382fc7dee77a0b752db3c5b",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_light_1.png"
+    },
+    {
+      "name": "HUD_score_light_1_blue",
+      "qbkey": "0xac23937c",
+      "target": "hud/gh3/HUD_score_light_1_blue.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_light_1_blue.png",
+      "sha256": "3464618cad23194f6fe7187eedab463d4270de6ebcbf6b621d909e45a5720d3b",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_light_1_blue.png"
+    },
+    {
+      "name": "HUD_score_light_1_green",
+      "qbkey": "0x97155e77",
+      "target": "hud/gh3/HUD_score_light_1_green.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_light_1_green.png",
+      "sha256": "491e14b687b4c35b756fec5626644baefa146984474db23b0e4f06c9f24e8f75",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_light_1_green.png"
+    },
+    {
+      "name": "HUD_score_light_1_purple",
+      "qbkey": "0xbac8e61a",
+      "target": "hud/gh3/HUD_score_light_1_purple.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_light_1_purple.png",
+      "sha256": "2f527c275f49d732b9ded3f7ac3eb95b0d77919f90ef5a14392d85b168036fcd",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_light_1_purple.png"
+    },
+    {
+      "name": "HUD_score_light_2",
+      "qbkey": "0x5cf6477b",
+      "target": "hud/gh3/HUD_score_light_2.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_light_2.png",
+      "sha256": "c5777341f6e16d61e51067ca21309a6087c09f0e7e957972498cbd38e91576c1",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_light_2.png"
+    },
+    {
+      "name": "HUD_score_light_2_blue",
+      "qbkey": "0x2ab7e1d2",
+      "target": "hud/gh3/HUD_score_light_2_blue.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_light_2_blue.png",
+      "sha256": "aa367d297a53d35ec65607223895a75e035c715c9b5c9dedea593b9779c15f79",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_light_2_blue.png"
+    },
+    {
+      "name": "HUD_score_light_2_green",
+      "qbkey": "0xa6fd44ea",
+      "target": "hud/gh3/HUD_score_light_2_green.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_light_2_green.png",
+      "sha256": "08ddb984390f95b483359893a6c3bc0a9e207c708e9dfd83778439b6728a7cb6",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_light_2_green.png"
+    },
+    {
+      "name": "HUD_score_light_2_purple",
+      "qbkey": "0x3447e1f9",
+      "target": "hud/gh3/HUD_score_light_2_purple.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_light_2_purple.png",
+      "sha256": "4f884c96a299a00128c8012bf49b5e18eee2b6a8602d4f59e9721b6caf85da31",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_light_2_purple.png"
+    },
+    {
+      "name": "HUD_score_nixie_1a",
+      "qbkey": "0xb373f287",
+      "target": "hud/gh3/HUD_score_nixie_1a.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_nixie_1a.png",
+      "sha256": "aa9d13749797e4fd9ce79c404c39fd45e75d56a40bc8fe3e195738af58ce620f",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_nixie_1a.png"
+    },
+    {
+      "name": "HUD_score_nixie_2a",
+      "qbkey": "0x985ea144",
+      "target": "hud/gh3/HUD_score_nixie_2a.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_nixie_2a.png",
+      "sha256": "73d004893899b4c13530e29a37426948b4e3a574b1187f2092d881e08fdf3b5c",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_nixie_2a.png"
+    },
+    {
+      "name": "HUD_score_nixie_2b",
+      "qbkey": "0x0157f0fe",
+      "target": "hud/gh3/HUD_score_nixie_2b.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_nixie_2b.png",
+      "sha256": "d4e5d666b63d6e8f322568c4495cd2c9dca01d0b8a729e2b46ee87b65dc0724f",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_nixie_2b.png"
+    },
+    {
+      "name": "HUD_score_nixie_3a",
+      "qbkey": "0x81459005",
+      "target": "hud/gh3/HUD_score_nixie_3a.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_nixie_3a.png",
+      "sha256": "8d8b28f7d2f47578d54d1841f9024be95144d0f27506520607f0301bb9f2cd67",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_nixie_3a.png"
+    },
+    {
+      "name": "HUD_score_nixie_4a",
+      "qbkey": "0xce0406c2",
+      "target": "hud/gh3/HUD_score_nixie_4a.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_nixie_4a.png",
+      "sha256": "eb5ff546289a42cedcc7bb3f47fba24a284a6cdef7d3e4ab934aa16bde72ee08",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_nixie_4a.png"
+    },
+    {
+      "name": "HUD_score_nixie_4b",
+      "qbkey": "0x570d5778",
+      "target": "hud/gh3/HUD_score_nixie_4b.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_nixie_4b.png",
+      "sha256": "596b6c9ab02d8ae837a89dd8baa4bee193f7342a4172f111cc5b9e1a1a3a9c88",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_nixie_4b.png"
+    },
+    {
+      "name": "HUD_score_nixie_6b",
+      "qbkey": "0x653b35fa",
+      "target": "hud/gh3/HUD_score_nixie_6b.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_nixie_6b.png",
+      "sha256": "c5505053759863f0639faeab7836986324a5dd3760a4cc346319b472a8b575f8",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_nixie_6b.png"
+    },
+    {
+      "name": "HUD_score_nixie_8b",
+      "qbkey": "0xfbb81874",
+      "target": "hud/gh3/HUD_score_nixie_8b.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\gpttmp\\themez_fx4\\Homemade\\hud_from_pak\\HUD_score_nixie_8b.png",
+      "sha256": "70d207963a4fe21f3dc3ebb4f7bc050f17b21e58ece07e8215bf9926c5b07bf8",
+      "actual_target": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3\\HUD_score_nixie_8b.png"
+    }
+  ],
+  "copied": 44,
+  "missing": 0,
+  "errors": [],
+  "hud_directory": "C:\\gpttmp\\themez_misc\\Homemade\\hud\\gh3"
+}
