@@ -1,7 +1,7 @@
 name: Publish themes
 
-# every push that changes a theme makes a new release with one zip per theme folder.
-# /releases/latest/download/<Theme>.zip always points at the newest one.
+# every push that changes a theme makes a new release with one zip per theme folder, plus
+# All_Themes.zip with everything. /releases/latest/download/<Theme>.zip always points at the newest one.
 on:
   push:
     branches: [main]
