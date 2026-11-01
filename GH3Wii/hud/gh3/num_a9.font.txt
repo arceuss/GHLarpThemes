@@ -1,0 +1,18 @@
+# GH3 Wii bitmap font, from num_a9.fnc.ngc (lineheight 33, baseline 32 on Wii)
+# glyph <char|U+XXXX> <x> <y> <width> <height> <yoff> [xoff] [extra]
+page 256 32
+lineheight 35
+spacewidth 4
+yorigin 0
+pre 0
+post 0
+glyph 0 1 1 24 30 -2 0 0
+glyph 1 26 1 24 30 -2 0 0
+glyph 2 51 1 24 30 -2 0 0
+glyph 3 76 1 24 30 -2 0 0
+glyph 4 101 1 24 30 -2 0 0
+glyph 5 126 1 24 30 -2 0 0
+glyph 6 151 1 24 30 -2 0 0
+glyph 7 176 1 24 30 -2 0 0
+glyph 8 201 1 24 30 -2 0 0
+glyph 9 226 1 24 30 -2 0 0
