@@ -1,0 +1,593 @@
+{
+  "schema_version": 2,
+  "style": "gh3",
+  "sources": [
+    "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png"
+  ],
+  "destination": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES",
+  "report_path": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud_conversion_report_gh3.json",
+  "name_source_commit": "7f5b1977093c646fad8b069009c719be86097fb5",
+  "source_archive_sha256": null,
+  "dry_run": false,
+  "expected_images": 44,
+  "font_policy": "No font page/metrics copied. Prepare matching style-local pairs separately.",
+  "runtime_policy": "Exporting images does not implement or activate a HUD renderer.",
+  "images": [
+    {
+      "name": "Char_Select_Hilite1",
+      "qbkey": "0x6e5168a0",
+      "target": "hud/gh3/Char_Select_Hilite1.png",
+      "dimensions": [
+        64,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\Char_Select_Hilite1.png",
+      "sha256": "74da94c6cf7bf3eac0be9b952ca94fbd06e6e7e6eb482babeec4f36f0f368559",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\Char_Select_Hilite1.png"
+    },
+    {
+      "name": "HUD_counter_body",
+      "qbkey": "0x38b63489",
+      "target": "hud/gh3/HUD_counter_body.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_counter_body.png",
+      "sha256": "77657e57cd801c81d9b3602a5e8a6a132ccd254ecdadb6ad7a7c72858d379320",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_counter_body.png"
+    },
+    {
+      "name": "HUD_counter_drum",
+      "qbkey": "0x4020ac1b",
+      "target": "hud/gh3/HUD_counter_drum.png",
+      "dimensions": [
+        256,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_counter_drum.png",
+      "sha256": "947730167647ebfd6d6dd6fd6e1e5b50b82ec54e55e28c09ce87523a0a98ee6c",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_counter_drum.png"
+    },
+    {
+      "name": "HUD_counter_drum_icon",
+      "qbkey": "0x262aa716",
+      "target": "hud/gh3/HUD_counter_drum_icon.png",
+      "dimensions": [
+        64,
+        64
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_counter_drum_icon.png",
+      "sha256": "b5f1f399591a38bf1bebc3052e79212fe73f4452182cc4fa5007e1f5d1f75bbd",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_counter_drum_icon.png"
+    },
+    {
+      "name": "HUD_lightning_01",
+      "qbkey": "0xb0e43a20",
+      "target": "hud/gh3/HUD_lightning_01.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_lightning_01.png",
+      "sha256": "071b6e044c3eafca77f956c5387926468665f0497c5c16ddbe330edb2bc6b9ad",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_lightning_01.png"
+    },
+    {
+      "name": "HUD_lightning_03",
+      "qbkey": "0x5eea5b0c",
+      "target": "hud/gh3/HUD_lightning_03.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_lightning_03.png",
+      "sha256": "ed79ce99749bb52a8c584976313b40ac4e94b053bcabe5cf740e57d45e0a3866",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_lightning_03.png"
+    },
+    {
+      "name": "HUD_lightning_05",
+      "qbkey": "0xb789fe39",
+      "target": "hud/gh3/HUD_lightning_05.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_lightning_05.png",
+      "sha256": "ea29386b935d1299efbec5c7bfc6e2cbf63eefa7cee4b8e0eeffadeeb08f2a1f",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_lightning_05.png"
+    },
+    {
+      "name": "HUD_lightning_07",
+      "qbkey": "0x59879f15",
+      "target": "hud/gh3/HUD_lightning_07.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_lightning_07.png",
+      "sha256": "64d0639099e1e5ca752fd3945b4e8517ab6bef916c942597cdca081bc3e641ea",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_lightning_07.png"
+    },
+    {
+      "name": "HUD_rock_BG_green",
+      "qbkey": "0x450cea2a",
+      "target": "hud/gh3/HUD_rock_BG_green.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_BG_green.png",
+      "sha256": "819eec2397a76399cb24b2317a843096a67a60b4520b324cd887191694b3777a",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_rock_BG_green.png"
+    },
+    {
+      "name": "HUD_rock_BG_red",
+      "qbkey": "0x08c26d99",
+      "target": "hud/gh3/HUD_rock_BG_red.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_BG_red.png",
+      "sha256": "261ffde8501618928fb6db04e40b466a88b7414088819bde4ee8d43a45da9920",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_rock_BG_red.png"
+    },
+    {
+      "name": "HUD_rock_BG_yellow",
+      "qbkey": "0x95414c9e",
+      "target": "hud/gh3/HUD_rock_BG_yellow.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_BG_yellow.png",
+      "sha256": "0aa20bf0e0d3495564841a5d38a97ef7acf1d4b0f667c57d4f8f6a5cf7897b19",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_rock_BG_yellow.png"
+    },
+    {
+      "name": "HUD_rock_body",
+      "qbkey": "0xffdc02c4",
+      "target": "hud/gh3/HUD_rock_body.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_body.png",
+      "sha256": "cdcd1fca7a83c276f978fb95985d94bbcf0c3f5951a2423d988758f5aa64e34a",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_rock_body.png"
+    },
+    {
+      "name": "HUD_rock_lights_all",
+      "qbkey": "0x79a0865d",
+      "target": "hud/gh3/HUD_rock_lights_all.png",
+      "dimensions": [
+        256,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_lights_all.png",
+      "sha256": "3c68fae4179e7a9f5b6f3c5c0e9f68ba45383f8fd57580a476a5dfc7d464f91b",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_rock_lights_all.png"
+    },
+    {
+      "name": "HUD_rock_lights_green",
+      "qbkey": "0x89194192",
+      "target": "hud/gh3/HUD_rock_lights_green.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_lights_green.png",
+      "sha256": "9009a3924c07d2cdaa5ae4c18a2fb7ed634498f80a493b961e28cc5cfc6d8e88",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_rock_lights_green.png"
+    },
+    {
+      "name": "HUD_rock_lights_red",
+      "qbkey": "0xb8d9a80f",
+      "target": "hud/gh3/HUD_rock_lights_red.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_lights_red.png",
+      "sha256": "f05eebf3cd4178196ff41c92d3759427133edc051920cb4dd2a024780d803bd6",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_rock_lights_red.png"
+    },
+    {
+      "name": "HUD_rock_lights_yellow",
+      "qbkey": "0x5037628b",
+      "target": "hud/gh3/HUD_rock_lights_yellow.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_lights_yellow.png",
+      "sha256": "39bbf6027265d11068d78aac90a13bbb551f84485eacea1cc3854ceaafe85eca",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_rock_lights_yellow.png"
+    },
+    {
+      "name": "HUD_rock_needle",
+      "qbkey": "0x2438b25a",
+      "target": "hud/gh3/HUD_rock_needle.png",
+      "dimensions": [
+        16,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_needle.png",
+      "sha256": "a673a96a3498efd51c594e23097b6c4b7427474e79500225b227006b3fe44b2c",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_rock_needle.png"
+    },
+    {
+      "name": "HUD_rock_tube",
+      "qbkey": "0xd944d7e8",
+      "target": "hud/gh3/HUD_rock_tube.png",
+      "dimensions": [
+        64,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube.png",
+      "sha256": "e82e90e667399478bd2c9ecb57641e19ddeaaa7e71b7c52a1832e1f02b96213c",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_rock_tube.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_fill",
+      "qbkey": "0x351b676f",
+      "target": "hud/gh3/HUD_rock_tube_glow_fill.png",
+      "dimensions": [
+        64,
+        16
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube_glow_fill.png",
+      "sha256": "b9dff11bf6df334db7a24274f7201e9f6aa38a24ce3083ad125deb4b40fbf84b",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_rock_tube_glow_fill.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_fill_b",
+      "qbkey": "0xaf2cf767",
+      "target": "hud/gh3/HUD_rock_tube_glow_fill_b.png",
+      "dimensions": [
+        64,
+        16
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube_glow_fill_b.png",
+      "sha256": "a486318e39e87b7f94cf8108dcb28b4af11860eeb0aa80ac64e3bee3655349ac",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_rock_tube_glow_fill_b.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_full",
+      "qbkey": "0x20273d7b",
+      "target": "hud/gh3/HUD_rock_tube_glow_full.png",
+      "dimensions": [
+        64,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube_glow_full.png",
+      "sha256": "f32fc2cfa477efe505827f007d4ff1e4b785d85cfae1e4ab89fd23dfe2c4c0bf",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_rock_tube_glow_full.png"
+    },
+    {
+      "name": "HUD_rock_tube_glow_full_b",
+      "qbkey": "0x0a3c8de4",
+      "target": "hud/gh3/HUD_rock_tube_glow_full_b.png",
+      "dimensions": [
+        64,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_rock_tube_glow_full_b.png",
+      "sha256": "f7b5c4f9cb45deca5552a6de647a6d8130af61fade34e7a728b1d080136c00a9",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_rock_tube_glow_full_b.png"
+    },
+    {
+      "name": "HUD_score_body",
+      "qbkey": "0xe4334497",
+      "target": "hud/gh3/HUD_score_body.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_body.png",
+      "sha256": "00b85b4cf7930758c9c4dc4e20074ecd8fbb9db636a5b5bb397b68a90c94a4bd",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_body.png"
+    },
+    {
+      "name": "HUD_score_flash",
+      "qbkey": "0x36f7ff86",
+      "target": "hud/gh3/HUD_score_flash.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_flash.png",
+      "sha256": "37db66c8356b6ee73f9f3e8f7bb92879a79768afb0ca4804ff4764e1ebf63d2f",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_flash.png"
+    },
+    {
+      "name": "HUD_score_light_0",
+      "qbkey": "0xb2f82657",
+      "target": "hud/gh3/HUD_score_light_0.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_0.png",
+      "sha256": "0c3ff6c90edf8418a392d9091bdbabc7c167fc573da931f127828a4d7b0ead8c",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_light_0.png"
+    },
+    {
+      "name": "HUD_score_light_0_blue",
+      "qbkey": "0x677f40d9",
+      "target": "hud/gh3/HUD_score_light_0_blue.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_0_blue.png",
+      "sha256": "6f7374d542d5995bbc03d5bbcb8edc6c51d8a37805ff1159b793d06961414569",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_light_0_blue.png"
+    },
+    {
+      "name": "HUD_score_light_0_green",
+      "qbkey": "0x316255c3",
+      "target": "hud/gh3/HUD_score_light_0_green.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_0_green.png",
+      "sha256": "8cf6f1a10cffa33f4c3e6a4b21ef5e8209aa908493cef22be7aa77dcba00fc28",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_light_0_green.png"
+    },
+    {
+      "name": "HUD_score_light_0_purple",
+      "qbkey": "0x7662e684",
+      "target": "hud/gh3/HUD_score_light_0_purple.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_0_purple.png",
+      "sha256": "31a394fa38d8c9257518640e8e37740ec3c50b2f5255020dd9199f8ef0ac763b",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_light_0_purple.png"
+    },
+    {
+      "name": "HUD_score_light_1",
+      "qbkey": "0xc5ff16c1",
+      "target": "hud/gh3/HUD_score_light_1.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_1.png",
+      "sha256": "e8ada3493fd550e7b3b118069aff74e9007ade072695e522c82adf7ccfad4595",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_light_1.png"
+    },
+    {
+      "name": "HUD_score_light_1_blue",
+      "qbkey": "0xac23937c",
+      "target": "hud/gh3/HUD_score_light_1_blue.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_1_blue.png",
+      "sha256": "4ea17f694ec7e856db3a4a452a7302d2f8096c95be5c79fe7b892920db15d3da",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_light_1_blue.png"
+    },
+    {
+      "name": "HUD_score_light_1_green",
+      "qbkey": "0x97155e77",
+      "target": "hud/gh3/HUD_score_light_1_green.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_1_green.png",
+      "sha256": "6ea9ece0908e23445a48cf3fb83151677b0bf08326955e3abc2f8bbb84ed0804",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_light_1_green.png"
+    },
+    {
+      "name": "HUD_score_light_1_purple",
+      "qbkey": "0xbac8e61a",
+      "target": "hud/gh3/HUD_score_light_1_purple.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_1_purple.png",
+      "sha256": "0ba9a5d0bb2a2c5501ecdce56ab28ea9f64225a8746d5c8c291476fd4885750d",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_light_1_purple.png"
+    },
+    {
+      "name": "HUD_score_light_2",
+      "qbkey": "0x5cf6477b",
+      "target": "hud/gh3/HUD_score_light_2.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_2.png",
+      "sha256": "c504e560bbbcd4bdbf3583aabfcb8427fc14d0aff79e5abb6b1446c6b379dfc8",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_light_2.png"
+    },
+    {
+      "name": "HUD_score_light_2_blue",
+      "qbkey": "0x2ab7e1d2",
+      "target": "hud/gh3/HUD_score_light_2_blue.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_2_blue.png",
+      "sha256": "4a542cee1513e3a0becb92ed877f701f7293731e973769d95ecf43d87ab9ea1d",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_light_2_blue.png"
+    },
+    {
+      "name": "HUD_score_light_2_green",
+      "qbkey": "0xa6fd44ea",
+      "target": "hud/gh3/HUD_score_light_2_green.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_2_green.png",
+      "sha256": "6818eaf321a44e7159baa0b5ad985a9c13a0cc05335c3faa1245925c9792d886",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_light_2_green.png"
+    },
+    {
+      "name": "HUD_score_light_2_purple",
+      "qbkey": "0x3447e1f9",
+      "target": "hud/gh3/HUD_score_light_2_purple.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_light_2_purple.png",
+      "sha256": "c99f3d75c121340464f1cd14193ca2b98c219e5918055640922f4e6a9e8a3171",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_light_2_purple.png"
+    },
+    {
+      "name": "HUD_score_nixie_1a",
+      "qbkey": "0xb373f287",
+      "target": "hud/gh3/HUD_score_nixie_1a.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_1a.png",
+      "sha256": "7037f0248d84944697f9286e985fa3e4833292fedc808eb01d80eae7d900c4e2",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_nixie_1a.png"
+    },
+    {
+      "name": "HUD_score_nixie_2a",
+      "qbkey": "0x985ea144",
+      "target": "hud/gh3/HUD_score_nixie_2a.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_2a.png",
+      "sha256": "36f000465e9fd165150b8779fb92201dcde7ba247229ca22af38547514547842",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_nixie_2a.png"
+    },
+    {
+      "name": "HUD_score_nixie_2b",
+      "qbkey": "0x0157f0fe",
+      "target": "hud/gh3/HUD_score_nixie_2b.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_2b.png",
+      "sha256": "a4c4723889d6eb480c3c2d121a3e69d14fd8b82bda24d276daf44ce8fbb2db2e",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_nixie_2b.png"
+    },
+    {
+      "name": "HUD_score_nixie_3a",
+      "qbkey": "0x81459005",
+      "target": "hud/gh3/HUD_score_nixie_3a.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_3a.png",
+      "sha256": "8cb9789ee78accab208955a9c43a2be60fe9de3f3d8532632f4d3ce974013514",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_nixie_3a.png"
+    },
+    {
+      "name": "HUD_score_nixie_4a",
+      "qbkey": "0xce0406c2",
+      "target": "hud/gh3/HUD_score_nixie_4a.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_4a.png",
+      "sha256": "c08281abefe72dec423d643f7e635d9988ac930a9ce18dea1f8e58bd49c39c93",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_nixie_4a.png"
+    },
+    {
+      "name": "HUD_score_nixie_4b",
+      "qbkey": "0x570d5778",
+      "target": "hud/gh3/HUD_score_nixie_4b.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_4b.png",
+      "sha256": "34fb5529f417a2cebd5c1c4ec5f7a94dc77907885ccc46a8c713c4b922ae17dd",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_nixie_4b.png"
+    },
+    {
+      "name": "HUD_score_nixie_6b",
+      "qbkey": "0x653b35fa",
+      "target": "hud/gh3/HUD_score_nixie_6b.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_6b.png",
+      "sha256": "3338fa8aaa1ea62dd5107997cd18aafa175647b0c93bbf4830ffd1ad99f1eac1",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_nixie_6b.png"
+    },
+    {
+      "name": "HUD_score_nixie_8b",
+      "qbkey": "0xfbb81874",
+      "target": "hud/gh3/HUD_score_nixie_8b.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "status": "copied",
+      "source": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\extracted_png\\HUD_score_nixie_8b.png",
+      "sha256": "1fe8d67c693ffa87ebe9dbb09e585449439b000c83a27b94e16759f06a480637",
+      "actual_target": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3\\HUD_score_nixie_8b.png"
+    }
+  ],
+  "copied": 44,
+  "missing": 0,
+  "errors": [],
+  "hud_directory": "C:\\ClonZones_GH3_Renderer_Branch_Starter\\tools\\zone_extractor_converter\\ZONES\\hud\\gh3"
+}

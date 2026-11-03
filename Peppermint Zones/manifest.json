@@ -1,0 +1,635 @@
+{
+  "notes": {
+    "green": {
+      "normal": {
+        "source": "sys_gem2d_green.png",
+        "target": "Notes/green/normal.png"
+      },
+      "hopo": {
+        "source": "sys_Gem2D_Green_hammer.png",
+        "target": "Notes/green/hopo.png"
+      },
+      "tap": {
+        "source": "sys_battlegem_green01.png",
+        "target": "Notes/green/tap.png"
+      },
+      "star_normal": {
+        "source": "sys_star2d_green.png",
+        "target": "Notes/green/star_normal.png"
+      },
+      "star_hopo": {
+        "source": "sys_Star2D_Green_Hammer.png",
+        "target": "Notes/green/star_hopo.png"
+      },
+      "tap_starpower": {
+        "source": "sys_BattleGEM_Hammer_Green01.png",
+        "target": "Notes/green/tap_starpower.png"
+      },
+      "sustain": {
+        "source": "sys_Whammy2D_Green.png",
+        "target": "Notes/green/sustain.png"
+      }
+    },
+    "red": {
+      "normal": {
+        "source": "sys_gem2d_red.png",
+        "target": "Notes/red/normal.png"
+      },
+      "hopo": {
+        "source": "sys_Gem2D_Red_hammer.png",
+        "target": "Notes/red/hopo.png"
+      },
+      "tap": {
+        "source": "sys_battlegem_red01.png",
+        "target": "Notes/red/tap.png"
+      },
+      "star_normal": {
+        "source": "sys_Star2D_Red.png",
+        "target": "Notes/red/star_normal.png"
+      },
+      "star_hopo": {
+        "source": "sys_star2d_red_hammer.png",
+        "target": "Notes/red/star_hopo.png"
+      },
+      "tap_starpower": {
+        "source": "sys_battlegem_hammer_red01.png",
+        "target": "Notes/red/tap_starpower.png"
+      },
+      "sustain": {
+        "source": "sys_whammy2d_red.png",
+        "target": "Notes/red/sustain.png"
+      }
+    },
+    "yellow": {
+      "normal": {
+        "source": "sys_gem2d_yellow.png",
+        "target": "Notes/yellow/normal.png"
+      },
+      "hopo": {
+        "source": "sys_gem2d_yellow_hammer.png",
+        "target": "Notes/yellow/hopo.png"
+      },
+      "tap": {
+        "source": "sys_battlegem_yellow01.png",
+        "target": "Notes/yellow/tap.png"
+      },
+      "star_normal": {
+        "source": "sys_star2d_yellow.png",
+        "target": "Notes/yellow/star_normal.png"
+      },
+      "star_hopo": {
+        "source": "sys_star2d_yellow_hammer.png",
+        "target": "Notes/yellow/star_hopo.png"
+      },
+      "tap_starpower": {
+        "source": "sys_BattleGEM_Hammer_Yellow01.png",
+        "target": "Notes/yellow/tap_starpower.png"
+      },
+      "sustain": {
+        "source": "sys_whammy2d_yellow.png",
+        "target": "Notes/yellow/sustain.png"
+      }
+    },
+    "blue": {
+      "normal": {
+        "source": "sys_Gem2D_Blue.png",
+        "target": "Notes/blue/normal.png"
+      },
+      "hopo": {
+        "source": "sys_Gem2D_Blue_hammer.png",
+        "target": "Notes/blue/hopo.png"
+      },
+      "tap": {
+        "source": "sys_battlegem_blue01.png",
+        "target": "Notes/blue/tap.png"
+      },
+      "star_normal": {
+        "source": "sys_Star2D_Blue.png",
+        "target": "Notes/blue/star_normal.png"
+      },
+      "star_hopo": {
+        "source": "sys_star2d_blue_hammer.png",
+        "target": "Notes/blue/star_hopo.png"
+      },
+      "tap_starpower": {
+        "source": "sys_BattleGEM_Hammer_Blue01.png",
+        "target": "Notes/blue/tap_starpower.png"
+      },
+      "sustain": {
+        "source": "sys_Whammy2D_Blue.png",
+        "target": "Notes/blue/sustain.png"
+      }
+    },
+    "orange": {
+      "normal": {
+        "source": "sys_Gem2D_Orange.png",
+        "target": "Notes/orange/normal.png"
+      },
+      "hopo": {
+        "source": "sys_gem2d_orange_hammer.png",
+        "target": "Notes/orange/hopo.png"
+      },
+      "tap": {
+        "source": "sys_battlegem_orange01.png",
+        "target": "Notes/orange/tap.png"
+      },
+      "star_normal": {
+        "source": "sys_star2d_orange.png",
+        "target": "Notes/orange/star_normal.png"
+      },
+      "star_hopo": {
+        "source": "sys_Star2D_Orange_Hammer.png",
+        "target": "Notes/orange/star_hopo.png"
+      },
+      "tap_starpower": {
+        "source": "sys_battlegem_hammer_orange01.png",
+        "target": "Notes/orange/tap_starpower.png"
+      },
+      "sustain": {
+        "source": "sys_whammy2d_orange.png",
+        "target": "Notes/orange/sustain.png"
+      }
+    },
+    "open": {
+      "normal": {
+        "source": "user-added open asset",
+        "target": "Notes/open/normal.png"
+      },
+      "hopo": {
+        "source": "user-added open asset",
+        "target": "Notes/open/hopo.png"
+      },
+      "star_normal": {
+        "source": "user-added open asset",
+        "target": "Notes/open/star_normal.png"
+      },
+      "star_hopo": {
+        "source": "user-added open asset",
+        "target": "Notes/open/star_hopo.png"
+      },
+      "sustain": {
+        "source": "user-added open asset",
+        "target": "Notes/open/sustain.png"
+      },
+      "sustain_dead": {
+        "source": "user-added open asset",
+        "target": "Notes/open/sustain_dead.png"
+      }
+    }
+  },
+  "frets": {
+    "green": {
+      "down": {
+        "source": "sys_NowBar_Button01_Green_Down.png",
+        "target": "Frets/green/down.png"
+      },
+      "lip": {
+        "source": "sys_NowBar_Button01_Green_Lip.png",
+        "target": "Frets/green/lip.png"
+      },
+      "mid": {
+        "source": "sys_NowBar_Button01_Green_Mid2.png",
+        "target": "Frets/green/mid.png"
+      },
+      "head": {
+        "source": "sys_nowbar_head_green.png",
+        "target": "Frets/green/head.png"
+      },
+      "head_lit": {
+        "source": "sys_NowBar_Head_GreenL.png",
+        "target": "Frets/green/head_lit.png"
+      }
+    },
+    "red": {
+      "down": {
+        "source": "sys_NowBar_Button01_Red_Down.png",
+        "target": "Frets/red/down.png"
+      },
+      "lip": {
+        "source": "sys_NowBar_Button01_Red_Lip.png",
+        "target": "Frets/red/lip.png"
+      },
+      "mid": {
+        "source": "sys_NowBar_Button01_Red_Mid2.png",
+        "target": "Frets/red/mid.png"
+      },
+      "head": {
+        "source": "sys_nowbar_head_red.png",
+        "target": "Frets/red/head.png"
+      },
+      "head_lit": {
+        "source": "sys_NowBar_Head_RedL.png",
+        "target": "Frets/red/head_lit.png"
+      }
+    },
+    "yellow": {
+      "down": {
+        "source": "sys_NowBar_Button01_Yellow_Down.png",
+        "target": "Frets/yellow/down.png"
+      },
+      "lip": {
+        "source": "sys_NowBar_Button01_Yellow_Lip.png",
+        "target": "Frets/yellow/lip.png"
+      },
+      "mid": {
+        "source": "sys_nowbar_button01_yellow_mid2.png",
+        "target": "Frets/yellow/mid.png"
+      },
+      "head": {
+        "source": "sys_NowBar_Head_Yellow.png",
+        "target": "Frets/yellow/head.png"
+      },
+      "head_lit": {
+        "source": "sys_NowBar_Head_YellowL.png",
+        "target": "Frets/yellow/head_lit.png"
+      }
+    },
+    "blue": {
+      "down": {
+        "source": "sys_NowBar_Button01_Blue_Down.png",
+        "target": "Frets/blue/down.png"
+      },
+      "lip": {
+        "source": "sys_nowbar_button01_blue_lip.png",
+        "target": "Frets/blue/lip.png"
+      },
+      "mid": {
+        "source": "sys_nowbar_button01_blue_mid2.png",
+        "target": "Frets/blue/mid.png"
+      },
+      "head": {
+        "source": "sys_nowbar_head_blue.png",
+        "target": "Frets/blue/head.png"
+      },
+      "head_lit": {
+        "source": "sys_nowbar_head_bluel.png",
+        "target": "Frets/blue/head_lit.png"
+      }
+    },
+    "orange": {
+      "down": {
+        "source": "sys_nowbar_button01_orange_down.png",
+        "target": "Frets/orange/down.png"
+      },
+      "lip": {
+        "source": "sys_nowbar_button01_orange_lip.png",
+        "target": "Frets/orange/lip.png"
+      },
+      "mid": {
+        "source": "sys_nowbar_button01_orange_mid2.png",
+        "target": "Frets/orange/mid.png"
+      },
+      "head": {
+        "source": "sys_NowBar_Head_Orange.png",
+        "target": "Frets/orange/head.png"
+      },
+      "head_lit": {
+        "source": "sys_nowbar_head_orangel.png",
+        "target": "Frets/orange/head_lit.png"
+      }
+    }
+  },
+  "fx": {
+    "Notes/generic/star_power.png": {
+      "source": "sys_gem2d_starpower.png",
+      "target": "Notes/generic/star_power.png"
+    },
+    "Notes/generic/star_power_hopo.png": {
+      "source": "sys_Gem2D_StarPower_hammer.png",
+      "target": "Notes/generic/star_power_hopo.png"
+    },
+    "Highway/fretbar_large.png": {
+      "source": "sys_fretbar_large.png",
+      "target": "Highway/fretbar_large.png"
+    },
+    "Highway/fretbar_medium.png": {
+      "source": "sys_fretbar_medium.png",
+      "target": "Highway/fretbar_medium.png"
+    },
+    "Highway/fretbar_small.png": {
+      "source": "sys_fretbar_small.png",
+      "target": "Highway/fretbar_small.png"
+    },
+    "Highway/nowbar_neck.png": {
+      "source": "sys_nowbar_neck01.png",
+      "target": "Highway/nowbar_neck.png"
+    },
+    "Highway/string.png": {
+      "source": "sys_string01.png",
+      "target": "Highway/string.png"
+    },
+    "Highway/sidebar2d.png": {
+      "source": "sys_sidebar2D.png",
+      "target": "Highway/sidebar2d.png"
+    },
+    "FX/note_hit.png": {
+      "source": "sys_note_hit01.png",
+      "target": "FX/note_hit.png"
+    },
+    "FX/note_hit_blue.png": {
+      "source": "sys_note_hit_blue_01.png",
+      "target": "FX/note_hit_blue.png"
+    },
+    "FX/button_blast.png": {
+      "source": "ButtonBlast01.png",
+      "target": "FX/button_blast.png"
+    },
+    "FX/button_star.png": {
+      "source": "ButtonStar01.png",
+      "target": "FX/button_star.png"
+    },
+    "FX/particle_spark.png": {
+      "source": "sys_particle_spark01.png",
+      "target": "FX/particle_spark.png"
+    },
+    "FX/particle_star_01.png": {
+      "source": "sys_Particle_Star01.png",
+      "target": "FX/particle_star_01.png"
+    },
+    "FX/particle_star_02.png": {
+      "source": "sys_Particle_Star02.png",
+      "target": "FX/particle_star_02.png"
+    },
+    "FX/starpower_sdglow.png": {
+      "source": "sys_Starpower_SDGLOW.png",
+      "target": "FX/starpower_sdglow.png"
+    },
+    "Notes/generic/star_power_open.png": {
+      "source": "user-added generic/open asset",
+      "target": "Notes/generic/star_power_open.png"
+    },
+    "Notes/generic/star_power_open_hopo.png": {
+      "source": "user-added generic/open asset",
+      "target": "Notes/generic/star_power_open_hopo.png"
+    },
+    "Notes/generic/sustain_dead.png": {
+      "source": "sys_Whammy2D_Dead.png",
+      "target": "Notes/generic/sustain_dead.png"
+    },
+    "Notes/generic/sustain_open_star_power.png": {
+      "source": "user-added generic/open asset",
+      "target": "Notes/generic/sustain_open_star_power.png"
+    },
+    "Notes/generic/sustain_star_power.png": {
+      "source": "sys_Whammy2D_StarPower.png",
+      "target": "Notes/generic/sustain_star_power.png"
+    }
+  },
+  "source": "Source zone chosen at conversion time; see the extraction manifest and hud_conversion_report.json.",
+  "transparentPlaceholder": "Notes/generic/transparent.png",
+  "cloneHeroFieldAliases": {
+    "GuitarNoteSprites.StandardCapSprite": "Notes/{lane}/normal.png",
+    "GuitarNoteSprites.HopoCapSprite": "Notes/{lane}/hopo.png",
+    "GuitarNoteSprites.AltTapCapSprite": "Notes/{lane}/tap.png",
+    "GuitarNoteSprites.TapCapSprite": "Notes/{lane}/tap.png",
+    "GuitarNoteSprites.StandardStarCapSprite": "Notes/{lane}/star_normal.png",
+    "GuitarNoteSprites.HopoStarCapSprite": "Notes/{lane}/star_hopo.png",
+    "GuitarNoteSprites.AltTapStarCapSprite": "Notes/{lane}/tap_starpower.png",
+    "GuitarNoteSprites.StandardBodySprite": "Notes/generic/transparent.png",
+    "GuitarNoteSprites.TapBodySprite": "Notes/generic/transparent.png",
+    "GuitarFretAnimator.Base": "Frets/{lane}/mid.png",
+    "GuitarFretAnimator.cover": "Frets/{lane}/lip.png",
+    "GuitarFretAnimator.head": "Frets/{lane}/head.png",
+    "GuitarFretAnimator.headLight": "Frets/{lane}/head_lit.png",
+    "Sustain/Whammy lane texture": "Notes/{lane}/sustain.png",
+    "Open note normal": "Notes/open/normal.png",
+    "Open note HOPO": "Notes/open/hopo.png",
+    "Open note starpower": "Notes/open/star_normal.png",
+    "Open note starpower HOPO": "Notes/open/star_hopo.png",
+    "Open sustain": "Notes/open/sustain.png",
+    "Open sustain dead": "Notes/open/sustain_dead.png",
+    "PerFretFlame lanes": "green, red, yellow, blue, orange, open"
+  },
+  "laneOrderWithOpen": [
+    "green",
+    "red",
+    "yellow",
+    "blue",
+    "orange",
+    "open"
+  ],
+  "notesAboutOpen": "Open is a sixth logical note/flame lane for Clone Hero/per-fret flame handling, not one of the five colored frets.",
+  "hud": {
+    "Char_Select_Hilite1": {
+      "source": "Char_Select_Hilite1.png",
+      "target": "hud/gh3/Char_Select_Hilite1.png",
+      "qbkey": "0x6e5168a0"
+    },
+    "HUD_counter_body": {
+      "source": "HUD_counter_body.png",
+      "target": "hud/gh3/HUD_counter_body.png",
+      "qbkey": "0x38b63489"
+    },
+    "HUD_counter_drum": {
+      "source": "HUD_counter_drum.png",
+      "target": "hud/gh3/HUD_counter_drum.png",
+      "qbkey": "0x4020ac1b"
+    },
+    "HUD_counter_drum_icon": {
+      "source": "HUD_counter_drum_icon.png",
+      "target": "hud/gh3/HUD_counter_drum_icon.png",
+      "qbkey": "0x262aa716"
+    },
+    "HUD_lightning_01": {
+      "source": "HUD_lightning_01.png",
+      "target": "hud/gh3/HUD_lightning_01.png",
+      "qbkey": "0xb0e43a20"
+    },
+    "HUD_lightning_03": {
+      "source": "HUD_lightning_03.png",
+      "target": "hud/gh3/HUD_lightning_03.png",
+      "qbkey": "0x5eea5b0c"
+    },
+    "HUD_lightning_05": {
+      "source": "HUD_lightning_05.png",
+      "target": "hud/gh3/HUD_lightning_05.png",
+      "qbkey": "0xb789fe39"
+    },
+    "HUD_lightning_07": {
+      "source": "HUD_lightning_07.png",
+      "target": "hud/gh3/HUD_lightning_07.png",
+      "qbkey": "0x59879f15"
+    },
+    "HUD_rock_BG_green": {
+      "source": "HUD_rock_BG_green.png",
+      "target": "hud/gh3/HUD_rock_BG_green.png",
+      "qbkey": "0x450cea2a"
+    },
+    "HUD_rock_BG_red": {
+      "source": "HUD_rock_BG_red.png",
+      "target": "hud/gh3/HUD_rock_BG_red.png",
+      "qbkey": "0x08c26d99"
+    },
+    "HUD_rock_BG_yellow": {
+      "source": "HUD_rock_BG_yellow.png",
+      "target": "hud/gh3/HUD_rock_BG_yellow.png",
+      "qbkey": "0x95414c9e"
+    },
+    "HUD_rock_body": {
+      "source": "HUD_rock_body.png",
+      "target": "hud/gh3/HUD_rock_body.png",
+      "qbkey": "0xffdc02c4"
+    },
+    "HUD_rock_lights_all": {
+      "source": "HUD_rock_lights_all.png",
+      "target": "hud/gh3/HUD_rock_lights_all.png",
+      "qbkey": "0x79a0865d"
+    },
+    "HUD_rock_lights_green": {
+      "source": "HUD_rock_lights_green.png",
+      "target": "hud/gh3/HUD_rock_lights_green.png",
+      "qbkey": "0x89194192"
+    },
+    "HUD_rock_lights_red": {
+      "source": "HUD_rock_lights_red.png",
+      "target": "hud/gh3/HUD_rock_lights_red.png",
+      "qbkey": "0xb8d9a80f"
+    },
+    "HUD_rock_lights_yellow": {
+      "source": "HUD_rock_lights_yellow.png",
+      "target": "hud/gh3/HUD_rock_lights_yellow.png",
+      "qbkey": "0x5037628b"
+    },
+    "HUD_rock_needle": {
+      "source": "HUD_rock_needle.png",
+      "target": "hud/gh3/HUD_rock_needle.png",
+      "qbkey": "0x2438b25a"
+    },
+    "HUD_rock_tube": {
+      "source": "HUD_rock_tube.png",
+      "target": "hud/gh3/HUD_rock_tube.png",
+      "qbkey": "0xd944d7e8"
+    },
+    "HUD_rock_tube_glow_fill": {
+      "source": "HUD_rock_tube_glow_fill.png",
+      "target": "hud/gh3/HUD_rock_tube_glow_fill.png",
+      "qbkey": "0x351b676f"
+    },
+    "HUD_rock_tube_glow_fill_b": {
+      "source": "HUD_rock_tube_glow_fill_b.png",
+      "target": "hud/gh3/HUD_rock_tube_glow_fill_b.png",
+      "qbkey": "0xaf2cf767"
+    },
+    "HUD_rock_tube_glow_full": {
+      "source": "HUD_rock_tube_glow_full.png",
+      "target": "hud/gh3/HUD_rock_tube_glow_full.png",
+      "qbkey": "0x20273d7b"
+    },
+    "HUD_rock_tube_glow_full_b": {
+      "source": "HUD_rock_tube_glow_full_b.png",
+      "target": "hud/gh3/HUD_rock_tube_glow_full_b.png",
+      "qbkey": "0x0a3c8de4"
+    },
+    "HUD_score_body": {
+      "source": "HUD_score_body.png",
+      "target": "hud/gh3/HUD_score_body.png",
+      "qbkey": "0xe4334497"
+    },
+    "HUD_score_flash": {
+      "source": "HUD_score_flash.png",
+      "target": "hud/gh3/HUD_score_flash.png",
+      "qbkey": "0x36f7ff86"
+    },
+    "HUD_score_light_0": {
+      "source": "HUD_score_light_0.png",
+      "target": "hud/gh3/HUD_score_light_0.png",
+      "qbkey": "0xb2f82657"
+    },
+    "HUD_score_light_0_blue": {
+      "source": "HUD_score_light_0_blue.png",
+      "target": "hud/gh3/HUD_score_light_0_blue.png",
+      "qbkey": "0x677f40d9"
+    },
+    "HUD_score_light_0_green": {
+      "source": "HUD_score_light_0_green.png",
+      "target": "hud/gh3/HUD_score_light_0_green.png",
+      "qbkey": "0x316255c3"
+    },
+    "HUD_score_light_0_purple": {
+      "source": "HUD_score_light_0_purple.png",
+      "target": "hud/gh3/HUD_score_light_0_purple.png",
+      "qbkey": "0x7662e684"
+    },
+    "HUD_score_light_1": {
+      "source": "HUD_score_light_1.png",
+      "target": "hud/gh3/HUD_score_light_1.png",
+      "qbkey": "0xc5ff16c1"
+    },
+    "HUD_score_light_1_blue": {
+      "source": "HUD_score_light_1_blue.png",
+      "target": "hud/gh3/HUD_score_light_1_blue.png",
+      "qbkey": "0xac23937c"
+    },
+    "HUD_score_light_1_green": {
+      "source": "HUD_score_light_1_green.png",
+      "target": "hud/gh3/HUD_score_light_1_green.png",
+      "qbkey": "0x97155e77"
+    },
+    "HUD_score_light_1_purple": {
+      "source": "HUD_score_light_1_purple.png",
+      "target": "hud/gh3/HUD_score_light_1_purple.png",
+      "qbkey": "0xbac8e61a"
+    },
+    "HUD_score_light_2": {
+      "source": "HUD_score_light_2.png",
+      "target": "hud/gh3/HUD_score_light_2.png",
+      "qbkey": "0x5cf6477b"
+    },
+    "HUD_score_light_2_blue": {
+      "source": "HUD_score_light_2_blue.png",
+      "target": "hud/gh3/HUD_score_light_2_blue.png",
+      "qbkey": "0x2ab7e1d2"
+    },
+    "HUD_score_light_2_green": {
+      "source": "HUD_score_light_2_green.png",
+      "target": "hud/gh3/HUD_score_light_2_green.png",
+      "qbkey": "0xa6fd44ea"
+    },
+    "HUD_score_light_2_purple": {
+      "source": "HUD_score_light_2_purple.png",
+      "target": "hud/gh3/HUD_score_light_2_purple.png",
+      "qbkey": "0x3447e1f9"
+    },
+    "HUD_score_nixie_1a": {
+      "source": "HUD_score_nixie_1a.png",
+      "target": "hud/gh3/HUD_score_nixie_1a.png",
+      "qbkey": "0xb373f287"
+    },
+    "HUD_score_nixie_2a": {
+      "source": "HUD_score_nixie_2a.png",
+      "target": "hud/gh3/HUD_score_nixie_2a.png",
+      "qbkey": "0x985ea144"
+    },
+    "HUD_score_nixie_2b": {
+      "source": "HUD_score_nixie_2b.png",
+      "target": "hud/gh3/HUD_score_nixie_2b.png",
+      "qbkey": "0x0157f0fe"
+    },
+    "HUD_score_nixie_3a": {
+      "source": "HUD_score_nixie_3a.png",
+      "target": "hud/gh3/HUD_score_nixie_3a.png",
+      "qbkey": "0x81459005"
+    },
+    "HUD_score_nixie_4a": {
+      "source": "HUD_score_nixie_4a.png",
+      "target": "hud/gh3/HUD_score_nixie_4a.png",
+      "qbkey": "0xce0406c2"
+    },
+    "HUD_score_nixie_4b": {
+      "source": "HUD_score_nixie_4b.png",
+      "target": "hud/gh3/HUD_score_nixie_4b.png",
+      "qbkey": "0x570d5778"
+    },
+    "HUD_score_nixie_6b": {
+      "source": "HUD_score_nixie_6b.png",
+      "target": "hud/gh3/HUD_score_nixie_6b.png",
+      "qbkey": "0x653b35fa"
+    },
+    "HUD_score_nixie_8b": {
+      "source": "HUD_score_nixie_8b.png",
+      "target": "hud/gh3/HUD_score_nixie_8b.png",
+      "qbkey": "0xfbb81874"
+    }
+  },
+  "hudPolicy": "Images in hud/gh3; missing files use same-style fallback. Rendering behaviour is a separate runtime setting."
+}
