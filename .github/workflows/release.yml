@@ -29,8 +29,6 @@ jobs:
         run: echo "TAG=themes-$(date -u +%Y.%m.%d)-${{ github.run_number }}" >> "$GITHUB_ENV"
 
       - name: Zip each theme
-        env:
-          DOWNLOAD_URL: ${{ github.server_url }}/${{ github.repository }}/releases/download/${{ env.TAG }}
         run: bash .github/scripts/package.sh
 
       - name: Publish release
