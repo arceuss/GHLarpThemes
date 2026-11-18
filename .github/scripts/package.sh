@@ -10,7 +10,7 @@ all=All_Themes.zip
 rm -rf "$out"
 mkdir -p "$out"
 
-echo "these go into ghlarp/themes then you can just refresh themes in the gui if the game is already running." > "$out/notes.md"
+echo -e "these go into ghlarp/themes then you can just refresh themes in the gui if the game is already running.\npreviews can be seen at https://larp.frets.win/" > "$out/notes.md"
 
 themes=()
 count=0
