@@ -1,0 +1,19 @@
+# GH3 bitmap font "num_a7" exported from the zone by the GHLarp zone converter
+# Edit freely. Pixel coordinates refer to num_a7.png with the origin at the top-left.
+# glyph <char|U+XXXX> <x> <y> <width> <height> <yoff> [xoff] [extra]
+page 256 32
+lineheight 30
+spacewidth 20
+yorigin 7
+pre 0
+post 0
+glyph 0 21 0 20 29 -1 0 0
+glyph 1 42 0 10 29 -1 0 0
+glyph 2 53 0 20 29 -1 0 0
+glyph 3 74 0 20 29 -1 0 0
+glyph 4 95 0 20 29 -1 0 0
+glyph 5 116 0 20 29 -1 0 0
+glyph 6 137 0 20 29 -1 0 0
+glyph 7 158 0 20 29 -1 0 0
+glyph 8 179 0 20 29 -1 0 0
+glyph 9 200 0 20 29 -1 0 0
